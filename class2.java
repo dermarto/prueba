@@ -1,0 +1,1 @@
+modification of class2
