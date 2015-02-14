@@ -1,2 +1,0 @@
-# prueba
-Texto de pruba
